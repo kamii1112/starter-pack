@@ -1,1 +1,44 @@
 /* write your css here */
+/* write your css here */
+code {
+    background-color: #03fdfd4b;
+    padding: 2px 10px;
+    border-radius: 5px;
+}
+
+.spcl {
+    /* color: white;
+    background-color: black; */
+    /* padding: 2px 10px;
+    border-radius: 10px; */
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: "Sedan", serif;
+}
+
+.sedan-regular {
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sedan-regular-italic {
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.eg{
+    background-color: rgba(255, 118, 152, 0.365);
+    padding: 2px 10px;
+    border-radius: 5px;
+    padding-left: 30px;
+}
+
+.leftt {
+    display: flex;
+    flex-direction: column;
+    gap: 4px; /* You can adjust the gap value as needed */
+    padding-left: 30px;
+  }
+  

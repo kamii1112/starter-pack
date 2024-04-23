@@ -1,9 +1,14 @@
 import "./App.css";
+import Css from "./components/Css";
+import Html from "./components/Html";
 
 function App() {
-  return (
-    <div>app</div>
-  );
+    return (
+        <div>
+            <Html/>
+            <Css/>
+        </div>
+    );
 }
 
 export default App;
